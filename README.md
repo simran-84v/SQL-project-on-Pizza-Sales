@@ -1,2 +1,2 @@
 # SQL-project-on-Pizza-Sales
-These are some of the SQL that I have work on 
+This is an end to end SQL project on Pizza Sales that I worked on.
